@@ -16,8 +16,15 @@ api_function_m (){
     param=$tempm
 }
 
+# FEATURE
+subfeature1 (){
+    api_functionK
+}
+
 # MAIN
 main () {
+    subfeature1
+
     if [ "$param" == 1 ]
     then
         echo "GOOD"
