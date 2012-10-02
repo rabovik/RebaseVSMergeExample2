@@ -23,12 +23,17 @@ subfeature1 (){
 subfeature2 (){
     api_functionM
 }
+subfeature3 (){
+    api_functionL
+}
+
 
 
 # MAIN
 main () {
     subfeature1
     subfeature2
+    subfeature3
 
     if [ "$param" == 1 ]
     then
