@@ -3,15 +3,15 @@
 param=1
 
 # API
-api_functionK (){
+api_function_k (){
     local tempk=$param
     param=$tempk
 }
-api_functionL (){
+api_function_l (){
     local templ=$param
     param=$tempI
 }
-api_functionM (){
+api_function_m (){
     local tempm=$param
     param=$tempm
 }
