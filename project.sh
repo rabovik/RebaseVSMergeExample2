@@ -29,8 +29,9 @@ subfeature3 (){
 subfeature4 (){
     api_functionK
 }
-
-
+# ...
+# subfeatures 5..29
+# ...
 
 # MAIN
 main () {
@@ -38,6 +39,9 @@ main () {
     subfeature2
     subfeature3
     subfeature4
+#   ...
+#   subfeatures 5..29
+#   ...
 
     if [ "$param" == 1 ]
     then
