@@ -18,22 +18,22 @@ api_function_m (){
 
 # FEATURE
 subfeature1 (){
-    api_functionK
+    api_function_k
 }
 subfeature2 (){
-    api_functionM
+    api_function_m
 }
 subfeature3 (){
-    api_functionL
+    api_function_l
 }
 subfeature4 (){
-    api_functionK
+    api_function_k
 }
 # ...
 # subfeatures 5..29
 # ...
 subfeature30 (){
-    api_functionL
+    api_function_l
 }
 
 
